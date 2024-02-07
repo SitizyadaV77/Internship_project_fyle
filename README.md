@@ -15,7 +15,8 @@ Run ng test to execute the unit tests.
 Run ng serve for dev server.
 
 Hosted Link - https://amanyadav1.vercel.app/
-github repository - https://github.com/SitizyadaV77/fyle-internship-challenge-23/tree/master
+github repository - https://github.com/SitizyadaV77/Internship_project_fyle
+Yes I am ready to work with fyle as full time(10 am to 6 pm) for a period of 6 months 
 
 
 
