@@ -14,7 +14,8 @@ Run ng test to execute the unit tests.
 # Development server
 Run ng serve for dev server.
 
-Hosted Link - 
+Hosted Link - https://amanyadav1.vercel.app/
+github repository - 
 
 
 
