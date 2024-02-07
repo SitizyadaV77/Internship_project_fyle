@@ -15,7 +15,7 @@ Run ng test to execute the unit tests.
 Run ng serve for dev server.
 
 Hosted Link - https://amanyadav1.vercel.app/
-github repository - 
+github repository - https://github.com/SitizyadaV77/fyle-internship-challenge-23/tree/master
 
 
 
